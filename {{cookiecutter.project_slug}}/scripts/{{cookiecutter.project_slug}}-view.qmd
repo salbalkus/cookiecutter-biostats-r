@@ -1,0 +1,22 @@
+---
+title: "{{cookiecutter.project_slug}}-build"
+format: html
+editor: visual
+jupyter: python3
+---
+
+# Title
+
+Explain what this notebook does here.
+
+```{r}
+set.seed(10)
+```
+
+## Step 1: Data
+
+Explain the data. Host it on Figshare or Zenodo.
+
+## Step 2:
+
+Explain the next step of your analysis.
