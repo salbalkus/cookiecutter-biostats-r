@@ -22,7 +22,7 @@ Usage
 Set up a project directory by running the following command:
 
 ```
-cookiecutter gh:salbalkus/cookiecutter-biostats-py
+cookiecutter gh:salbalkus/cookiecutter-biostats-r
 ```
 
 License
